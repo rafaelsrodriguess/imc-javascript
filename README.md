@@ -1,2 +1,2 @@
 # imc-javascript
-Desenvolvimento da linguagem JavaScript e local storange
+Desenvolvimento da linguagem JavaScript 
